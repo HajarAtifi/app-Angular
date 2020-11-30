@@ -1,3 +1,11 @@
+First npm install "c'est pour eviter le telechargement des nodes modules 
+Ensuite ng serve 
+visualiser sur votre browser en utilisant le lien `http://localhost:4200/'
+
+Je vous remercie d'avance pour votre confiance 
+
+Hajar Atifi
+
 # Apps
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.6.
